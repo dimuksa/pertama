@@ -1,0 +1,4 @@
+pertama
+=======
+
+seadanya
